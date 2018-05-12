@@ -7,9 +7,9 @@
 			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/floriankdrone/test/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/floriankdrone/test/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/floriankdrone/test/repo</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/floriankdrone/test/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/floriankdrone/test/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/floriankdrone/test/master/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Incursion Video Repo</summary>
